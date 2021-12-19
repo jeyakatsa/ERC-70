@@ -1,33 +1,30 @@
-# [ERC-70 Token Proposal](https://ethresear.ch/t/erc-70-token-proposal/11540)
+# A New ERC Token Proposal
 
-#### This project is set to commence after [Light-Client-Server for Teku](https://github.com/jeyakatsa/teku/tree/master/light-client) build is completed.
+> *What if more developers with desires to create tokens in their desired languages could be easily onboarded into the Ethereum ecosystem (developers with deep knowledge in their favored languages [Java, Go, Python, Rust, etc])?*
 
-## Problem
+## Currently...
 
-As gathered, the main currencies that power the Ethereum ecosystem are ERC-20 tokens (with ERC-223 and ERC-777 tokens further improving upon ERC-20's flaws). With the plethora of currencies that have burgeoned Ethereum's thriving ecosystem, there is still a major flaw hindering Ethereum's evolution: 
+*Ethereum currencies can only be created with one language, Solidity*. 
 
-*Ethereum currencies can only be created with one language, Solidity*.
+As gathered, the main currencies that power the Ethereum ecosystem are ERC-20 tokens (with ERC-223 and ERC-777 tokens further improving upon ERC-20's flaws). With the plethora of currencies that have burgeoned Ethereum's thriving ecosystem, the ecosystem could still be farther expanded to onboard millions of tokens (and thousands of more developers) into the Ethereum ecosystem.
 
 ## Solution
 
-An Ethereum currency capable of being created in any language feasible: ***the ERC-70 Token***.
+An Ethereum currency capable of being created in any language feasible: *a **New-ERC Token** (exact ERC standard to be determined via EIP metrics)*.
 
-*According to the [Ethereum-2 Roadmap](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/), there are many more clients and languages available on Ethereum 2, but for now (due to experimentation purposes), this is the abstraction layer proposed to be worked on via the Architecture & Estimated Roadmap:*
+*According to the [Ethereum-2 Roadmap](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/), there are many more clients and languages available on Ethereum 2, but for now (due to experimentation purposes), this is the abstraction layer proposed to be worked on via the Architecture & Estimated Roadmap.*
 
 ### Architecture:
 
-![](https://i.imgur.com/ezpWKnw.jpg)
-
+![](https://i.imgur.com/PovmQ4X.jpg)
 
 ### Estimated Roadmap:
 
-- 2022-2024 (ERC-70 Java Abstraction Layer Build)
-*If the Java Abstraction layer build is successful, work on the next layers will commence...*
-- 2024-2025 (ERC-70 Rust Abstraction Layer Build)
-- 2025-2026 (ERC-70 Python Abstraction Layer Build)
-- 2026-2027 (ERC-70 Go Abstraction Layer Build)
-
-
+- Year 2022-2024 (New-ERC Token Java Abstraction Layer Build)
+*If the Java Abstraction layer build is successful, work on the next layers will commence.*
+- Year 2024-2025 (New-ERC Token Rust Abstraction Layer Build)
+- Year 2025-2026 (New-ERC Token Python Abstraction Layer Build)
+- Year 2026-2027 (New-ERC Token Go Abstraction Layer Build)
 
 | ETH2 Client   | Language     | Team                |
 |:--------------|:------------ |:------------------- |
@@ -36,19 +33,19 @@ An Ethereum currency capable of being created in any language feasible: ***the E
 | Trinity       | Python       | Ethereum Foundation |
 | Prysm         | Go           | Prysmatic Labs      |
 
-### ERC-20 tokens vs. Fiat currencies vs. ERC-70 tokens:
+### ERC-20 tokens vs. Fiat currencies vs. New-ERC tokens:
 
-![](https://i.imgur.com/2bmvZj8.jpg)
+![](https://i.imgur.com/EanU6S8.jpg)
 
 ERC-20 tokens in their current forms act not only as currencies, but are mostly used as investment contracts whereas Fiat currencies are used solely as exchange barters for goods and services.
 
-ERC-70 tokens are encapsulated to act as Fiat currencies, but with a twist... *ERC-70 token market caps are envisioned to rise and fall based on the exchange rates agreed upon*. ERC-70 tokens are envisioned not to be "bought and sold" via fiat-on-ramp exchanges but rather, only exchanged or "swapped" via decentralized exchanges like Uniswap, etc.
+New-ERC tokens are encapsulated to act as Fiat currencies, but with a twist... The tokens are not to be "bought and sold" via fiat-on-ramp exchanges but rather, only exchanged or "swapped" via decentralized exchanges like Uniswap, etc. *Thus, their market caps will rise and fall based on the exchange rates agreed upon*. 
 
-The goal for ERC-70 tokens are for them to be exchanged into and out of both ERC-20 tokens and Fiat currencies without the act of "buying and selling" the tokens.
+The goal for New-ERC tokens are for them to be exchanged into and out of both ERC-20 tokens and Fiat currencies without the act of "buying and selling" the tokens.
 
 ### Exchange Rate Mechanics:
 
-***ERC-70 tokens will act as "Personal Currencies"*** so in order for them to be successfully exchanged, they will need the consent of both parties *(like trading one NFT for another OR specifically speaking, trading 1 Yuan for 1 Dollar, or 50 Yuans for 1 Dollar, etc)*.
+***New-ERC tokens will act as "Personal Currencies"*** so in order for them to be successfully exchanged, they will need the consent of both parties *(like trading one NFT for another OR specifically speaking, trading 1 Yuan for 1 Dollar, or 50 Yuans for 1 Dollar, etc)*.
 
 **Scenario 1:** *Party A agrees to exchange 1 of their Tokens for 1 Token from Party B.*
 
@@ -90,5 +87,3 @@ The goal for ERC-70 tokens are for them to be exchanged into and out of both ERC
 ***Note: This proposal is still early in its development as more information, rules and architecture is gathered and is ever so evolving thus, questions, thoughts and feedback are very welcome.***
 
 *As previously incepted from the [Light Client Token Creation Proposal](https://ethresear.ch/t/light-client-custom-token-creation-proposal/11433).*
-
-##### [HackMd Post](https://hackmd.io/SFNfIcFcRLG5jge6N0onmQ?view)
