@@ -1,6 +1,8 @@
 # New-ERC build Notes
 
 ## [EIP Guideline](https://eips.ethereum.org/EIPS/eip-1)
+
+## [WASM](https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-ewasm-394cac756baf)
 --------------------------------------
 
 #### New-ERC Token to be built onto Layer 2 Rollups?
