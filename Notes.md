@@ -1,5 +1,10 @@
 # New-ERC build Notes
 
+#### *While building the [Light Client Infrastructure for Teku](https://github.com/jeyakatsa/teku/tree/master/light-client), these are the said discoveries:*
+
+- Clients serve as arbiters or "bridges" to the Ethereum main chain.
+- Such clients offer differing languages that connect with the transactions offered on Ethereum, thus concluding if said clients can offer a base layer capable of inferring transactions from Ethereum's base layer, can tokens created in said languages also offer the same results?
+
 ## [EIP Guideline](https://eips.ethereum.org/EIPS/eip-1)
 
 ## [WASM](https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-ewasm-394cac756baf)
