@@ -1,8 +1,5 @@
 # A New ERC Token Proposal
 
-##### *Work planned to commence after [Light Client Infrastructure for Teku](https://github.com/jeyakatsa/teku/tree/master/light-client) is completed.*
------------------------------------------------------------------
-
 > *What if more developers with desires to create tokens in their desired languages could be easily onboarded into the Ethereum ecosystem (developers with deep knowledge in their favored languages [Java, Go, Python, Rust, etc])?*
 
 ## Currently...
