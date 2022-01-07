@@ -8,6 +8,7 @@
 ## EIP (Ethereum Improvement Proposal) Notes:
 ### [Guideline](https://eips.ethereum.org/EIPS/eip-1)
 ### [Pull-Request](https://github.com/ethereum/EIPs)
+### [Intro-To-Smart-Contracts-in-Solidity](https://docs.soliditylang.org/en/v0.8.10/introduction-to-smart-contracts.html)
 ### [WASM](https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-ewasm-394cac756baf)
 --------------------------------------
 
