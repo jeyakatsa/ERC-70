@@ -1,18 +1,37 @@
-# New-ERC build Research & Development
+# New-ERC Token Research & Development
 
-#### *While building the [Light Client Infrastructure for Teku](https://github.com/jeyakatsa/teku/tree/master/light-client), these are the said discoveries:*
+### Estimated Roadmap:
 
-- Clients serve as arbiters or "bridges" to the Ethereum main chain.
-- Such clients offer differing languages that connect with the transactions offered on Ethereum, thus concluding if said clients can offer a base layer capable of inferring transactions from Ethereum's base layer, can tokens created in said languages also offer the same results?
+#### Month-By-Month *(2022)*
+- January: Complete First Draft of EIP, create pull request/public.
+- February: Begin Final Draft of EIP. Begin building Java Abstraction Layer.
+- *More TBA (To Be Added)*
+
+#### Year-By-Year
+- Year 2022-2024: ***Java*** Abstraction Layer Build.
+*If the Java Abstraction layer build is successful, work on the next layers will commence.*
+- Year 2024-2025: ***Rust*** Abstraction Layer Build.
+- Year 2025-2026: ***Python*** Abstraction Layer Build.
+- Year 2026-2027: ***Go*** Abstraction Layer Build.
 
 ## EIP (Ethereum Improvement Proposal) Notes:
 ### [Guideline](https://eips.ethereum.org/EIPS/eip-1)
 ### [Pull-Request](https://github.com/ethereum/EIPs)
 ### [Intro-To-Smart-Contracts-in-Solidity](https://docs.soliditylang.org/en/v0.8.10/introduction-to-smart-contracts.html)
 ### [WASM](https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-ewasm-394cac756baf)
+
+---------------------------------------------------
+
+### General Abstraction:
+
+#### *While building the [Light Client Infrastructure for Teku](https://github.com/jeyakatsa/teku/tree/master/light-client), these are the said discoveries:*
+
+- Clients serve as arbiters or "bridges" to the Ethereum main chain.
+- Such clients offer differing languages that connect with the transactions offered on Ethereum, thus concluding if said clients can offer a base layer capable of inferring transactions from Ethereum's base layer, can tokens created in said languages also offer the same results?
+
 --------------------------------------
 
-#### New-ERC Token to be built onto Layer 2 Rollups?
+### Layer-2 Notes:
 
 ##### As Previously gathered from the [Ethereum.org](https://github.com/ethereum/ethereum-org-website/blob/dev/src/content/developers/docs/scaling/layer-2-rollups/index.md) site:
 
