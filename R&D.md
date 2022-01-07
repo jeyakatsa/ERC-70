@@ -1,4 +1,4 @@
-# New-ERC build Notes
+# New-ERC build Research & Development
 
 #### *While building the [Light Client Infrastructure for Teku](https://github.com/jeyakatsa/teku/tree/master/light-client), these are the said discoveries:*
 
