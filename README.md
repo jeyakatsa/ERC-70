@@ -16,7 +16,7 @@ An Ethereum currency capable of being created in any language feasible: *a **New
 
 ### Architecture:
 
-![](https://imgur.com/54Jp1Tl.jpg)
+![](https://imgur.com/hs8WlUw.jpg)
 
 ### Estimated Roadmap:
 
