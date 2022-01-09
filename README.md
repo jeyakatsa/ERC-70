@@ -1,4 +1,4 @@
-# A New ERC Token Proposal ([EIP-700](https://github.com/jeyakatsa/EIPs/blob/master/EIPS/eip-700.md))
+# A New ERC Token Proposal ([EIP-XXXX](https://github.com/jeyakatsa/EIPs/blob/master/EIPS/eip-XXXX.md))
 
 > *What if more developers with desires to create tokens in their desired languages could be easily onboarded into the Ethereum ecosystem (developers with deep knowledge in their favored languages [Java, Go, Python, Rust, etc])?*
 
