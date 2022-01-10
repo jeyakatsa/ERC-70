@@ -1,15 +1,15 @@
 # New-ERC Token Research & Development
 
-### Estimated Roadmap:
+## Estimated Roadmap:
 
-#### Month-By-Month *(2022)*
+### Month-By-Month *(2022)*
 January:
 - Complete First Draft of EIP, create pull request/publish. *[Status: **[Complete](https://github.com/ethereum/EIPs/pull/4649)**]*.
 - Begin building Java Abstraction Layer. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
 - Complete Final Draft of EIP. *[Status: Announced]*
 - *More TBA(To-Be-Announced)*
 
-#### Year-By-Year
+### Year-By-Year
 2022-2024: 
 - ***Java*** Abstraction Layer Build. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
 
@@ -21,6 +21,44 @@ January:
 
 2026-2027: 
 - ***Go*** Abstraction Layer Build. *[Status: Announced]*
+
+-----------------------------------------------------------------------
+## Problem Solving Process
+
+*Problems & Solutions ordered top-down from recent-to-oldest*
+
+### Problem:
+This function in Solidity needs to be converted into Java:
+```solidity 
+mapping (address => uint) public balances;
+``` 
+
+#### Hypothesis:
+1. Refactor function.
+
+##### Findings
+- A basic syntax function for Solidity is as follows:
+```solidity
+function function-name(parameter-list) scope returns() {
+   //statements
+}
+```
+Question is, how do we implement the `(address => uint)` in Java?
+- The function `mapping (address => uint) public balances;` in Solidity is the similar to `var mydictionary = new Dictionary(key,value);` in Java with the `=>` simply indicating an arrow.
+
+##### Test Case/s:
+- Function in Java as possibility.
+```java
+public Map balances = new Map<Adress, Uint256>();
+```
+
+### Solution:
+*Will refactor if necessary after test against dependency importing is completed*
+```java
+public Map balances = new Map<Adress, Uint256>();
+```
+
+-----------------------------------------------------------------------
 
 ## EIP (Ethereum Improvement Proposal) Notes/References:
 ### [Guideline](https://eips.ethereum.org/EIPS/eip-1)
