@@ -1,3 +1,5 @@
+## *This project is now focused on building Smart-Contract abstractions starting with a [Java Smart Contract Abstraction for Ethereum](https://github.com/jeyakatsa/Ethereum-Smart-Contract-Java-Abstraction)*
+
 # A New ERC Token Proposal ([EIP-XXXX](https://github.com/jeyakatsa/EIPs/blob/master/EIPS/eip-XXXX.md))
 
 > *What if more developers with desires to create tokens in their desired languages could be easily onboarded into the Ethereum ecosystem (developers with deep knowledge in their favored languages [Java, Go, Python, Rust, etc])?*
