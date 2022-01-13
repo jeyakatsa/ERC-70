@@ -7,10 +7,11 @@ January:
 - Complete First Draft of EIP, create pull request/publish. *[Status: **[Complete](https://github.com/ethereum/EIPs/pull/4649)**]*.
 - Begin building Java Abstraction. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
 
-***Java*** Smart Contract Abstraction Build. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
-***Rust*** Smart Contract Abstraction Build. *[Status: Announced]*
-***Python*** Smart Contract Abstraction Build. *[Status: Announced]*
-***Go*** Smart Contract Abstraction Build. *[Status: Announced]*
+February - December:
+- ***Java*** Smart Contract Abstraction Build. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
+- ***Rust*** Smart Contract Abstraction Build. *[Status: Announced]*
+- ***Python*** Smart Contract Abstraction Build. *[Status: Announced]*
+- ***Go*** Smart Contract Abstraction Build. *[Status: Announced]*
 
 -----------------------------------------------------------------------
 ## Problem Solving Process
