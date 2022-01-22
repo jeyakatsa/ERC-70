@@ -5,22 +5,13 @@
 ### Month-By-Month *(2022)*
 January:
 - Complete First Draft of EIP, create pull request/publish. *[Status: **[Complete](https://github.com/ethereum/EIPs/pull/4649)**]*.
-- Begin building Java Abstraction Layer. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
-- Complete Final Draft of EIP. *[Status: Announced]*
-- *More TBA(To-Be-Announced)*
+- Begin building Java Abstraction. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
 
-### Year-By-Year
-2022-2024: 
-- ***Java*** Abstraction Layer Build. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
-
-2024-2025:
-- ***Rust*** Abstraction Layer Build. *[Status: Announced]*
-
-2025-2026: 
-- ***Python*** Abstraction Layer Build. *[Status: Announced]*
-
-2026-2027: 
-- ***Go*** Abstraction Layer Build. *[Status: Announced]*
+February - December:
+- ***Java*** Smart Contract Abstraction Build. *[Status: [In-Development](https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction)]*
+- ***Rust*** Smart Contract Abstraction Build. *[Status: Announced]*
+- ***Python*** Smart Contract Abstraction Build. *[Status: Announced]*
+- ***Go*** Smart Contract Abstraction Build. *[Status: Announced]*
 
 -----------------------------------------------------------------------
 ## Problem Solving Process
