@@ -1,3 +1,6 @@
 [submodule "New-ERC-Token-Java-Abstraction"]
 	path = New-ERC-Token-Java-Abstraction
 	url = https://github.com/jeyakatsa/New-ERC-Token-Java-Abstraction
+[submodule "ethereum-smart-contract-java-abstraction"]
+	path = ethereum-smart-contract-java-abstraction
+	url = https://github.com/jeyakatsa/ethereum-smart-contract-java-abstraction
